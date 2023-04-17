@@ -34,3 +34,9 @@ ol {
     height: 200px;
     border: 1px solid;
 }
+
+table{
+    display: block;
+    border: 1px solid;
+    justify-content: center;
+}
