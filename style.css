@@ -1,4 +1,5 @@
-html, body{
+html,
+body {
     height: 100%;
     margin: 0;
     padding: 0;
@@ -7,11 +8,11 @@ html, body{
     background-color: lightblue;
 }
 
-a{
+a {
     color: green;
 }
 
-form{
+form {
     margin: auto;
     border: 1px solid;
     width: 300px;
@@ -19,12 +20,12 @@ form{
     border-radius: 20px;
 }
 
-ol{
+ol {
     margin: auto;
     display: inline-block;
 }
 
-.images{
+.images {
     align-items: center;
 }
 
