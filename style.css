@@ -23,3 +23,13 @@ ol{
     margin: auto;
     display: inline-block;
 }
+
+.images{
+    align-items: center;
+}
+
+.images img{
+    width: 200px;
+    height: 200px;
+    border: 1px solid;
+}
